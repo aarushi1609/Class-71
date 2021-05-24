@@ -1,0 +1,120 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.line {
+    width: 600px;
+    height: 15px;
+    background-color: #0063B2FF;
+    margin: auto;
+}
+
+.container {
+    text-align: center;
+    font-family: 'Recursive', sans-serif;
+}
+
+.heading-5 {
+    color: #0063B2FF;
+    font-size: 20px;
+
+}
+
+.travel-1-text {
+    color: #9CC3D5FF;
+}
+
+
+kbd {
+    font-size: 25px;
+}
+
+.travel-1 {
+    border: 2px solid #9CC3D5FF;
+    padding: 10px;
+}
+
+.movie i {
+    float: right
+}
+
+.movie {
+    padding: 5px;
+    margin-bottom: 20px;
+    width: 100%;
+    display: inline-block;
+}
+
+.name-of-movie {
+    color: #0063B2FF;
+}
+
+.movie-text-1 {
+    color: #9CC3D5FF;
+}
+
+.environment-li p {
+    padding-top: 50px;
+    color: #0063B2FF;
+}
+
+.environment-li {
+    margin-top: 30px;
+    background-color: #9CC3D5FF;
+}
+
+.environment-li h4 {
+    color: #0063B2FF;
+}
+
+.contact {
+    margin-top: 1000px;
+}
+
+#contact1 h3 {
+    display: inline;
+}
+
+#contact1 img {
+    display: inline;
+}
+
+.contact-image-1 {
+    border-radius: 100px;
+}
+
+.book{
+    cursor: pointer;
+}
+
+.popup-image{
+    display: inline-block;
+}
+
+.modal-content{
+    margin-top: 100px;
+}
+
+.popup-text{
+   color:  #9CC3D5FF;
+}
+
+.modal-text , .modal-title{
+   color: #0063B2FF; 
+}
+
+.modal-image{
+    height: 200px;
+}
